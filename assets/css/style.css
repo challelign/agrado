@@ -111,6 +111,8 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
+  background: rgba(86, 112, 158, 0.9);
+
 }
 
 #header.header-scrolled,
@@ -133,7 +135,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 35px;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -1077,7 +1079,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
